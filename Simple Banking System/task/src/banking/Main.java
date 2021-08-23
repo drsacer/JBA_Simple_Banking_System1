@@ -152,4 +152,8 @@ public class Main {
         digit = 10 - digit;
         return digit;
     }
+
+    public static void  print (){
+        System.out.println("Comit");
+    }
 }
