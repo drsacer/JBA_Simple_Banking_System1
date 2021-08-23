@@ -156,4 +156,8 @@ public class Main {
     public static void  print (){
         System.out.println("Comit");
     }
+
+    public static void  print2 (){
+        System.out.println("Comit2");
+    }
 }
